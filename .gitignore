@@ -1,0 +1,20 @@
+```plaintext
+# Compiled object files, libraries, and executables
+*.o
+*.out
+*.dll
+*.so
+*.dylib
+*.exe
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*~
+
+# Other files to ignore
+.DS_Store
+.vscode/
